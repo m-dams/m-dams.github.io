@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Selected projects in data science, machine learning and deep learning
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Skills-based projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
