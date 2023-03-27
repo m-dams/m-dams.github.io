@@ -1,8 +1,8 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science, machine learning and deep learning
 
 ---
 
-### Deep NLP for hate speech detection
+### Data stream concept drift detection
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
@@ -12,7 +12,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 
 ---
 
-### Examining panic-buying during the first wave of Covid-19, using mobility data
+### Image super-resolution
 The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
 
 <img src="images/mobility.png?raw=true" />
@@ -23,7 +23,7 @@ View code on Colab
 
 ---
 
-### The Fragile Families Challenge: ML with Bayesian hyperparameter tuning, KNN missing values imputation, and data preprocessing Pipelines
+### Cars theft in polish provinces
 The Fragile Families Challenge was a predictive modelling challenge commissioned by researchers at Princeton University in 2017. In the challenge, participants were tasked with predicting six life outcomes (GPA, material hardship, grit, eviction, layoff, and job training) for 4,242 children based on their cirumstances between birth and age 9. 
 
 I took part in this challenge, using various ML and NLP techniques including: (i) imputing missing values using word embeddings and KNN, (ii) modelling with LASSO, Random Forests and XGBoost models, (iii) Bayesian hyperparameter optimisation, and (iv) using feature importance scores to interpret the models' predictions. 
@@ -34,7 +34,7 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 ---
 
-### Implementing a custom data collection pipeline using Scrapy and MongoDB
+### Reinforcement learning in StarCraft 2 bot implementation
 The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
@@ -43,7 +43,7 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 
 ---
 
-### Geospatial analysis of deprivation in London
+### Car model market analysis
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 
 <img src="images/london2.png?raw=true"/>
@@ -54,7 +54,7 @@ View code on Colab
 
 ---
 
-### Interpretable machine learning: Parital Dependence Plots, LIME and Shapley values
+### The Search for New Earths
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
 
 <img src="images/interpretable.png?raw=true"/>
@@ -62,17 +62,6 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1Msk1tmph1IQYom596vy3MmMwESID0KaW?usp=sharing)
-
----
-
-### Using multi-level modelling in R to investigate the drivers of Covid-19 vaccine hesitancy
-In many tasks, failing to account for the hierarchical relations and autocorrelations between data can create "ecological fallacies" which misguide our interpretation of the data. In this project, I use mutli-level regression modelling to account for spatial autocorrelation and study reasons for Covid-19 vaccine hesitancy. 
-
-<!-- <img src="images/random_intercept.png?raw=true"/> -->
-
-[![](https://img.shields.io/badge/R-white?logo=R)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-
-View code on Github
 
 ---
 
