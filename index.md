@@ -15,7 +15,7 @@ Real-world data streams are rarely stationary. Data can change over time on seve
 ---
 
 ### Image super-resolution
-The first wave of COVID-19 infections led to widespread stories of shortages in grocery stores as consumers stocked up in anticipation of lockdowns, a behaviour colloquially known as ‘panic buying’. In this project, I used mobility data from Google and Apple to empirically investigate the extent of panic buying in different countries.
+Image super-resolution improves the quality of the output image. In this project, I implement a RuNET deep neural network, train it to upscale images from a selected dataset, and compare its performance with classical image upscaling methods.
 
 <p float="left">
   <img src="images/geoparddownscaled.png?raw=true" />
@@ -42,7 +42,7 @@ Every year few thousands of cars are stolen in Poland. The number of stolen cars
 ---
 
 ### Reinforcement learning in StarCraft 2 bot implementation
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+Starcraft 2 is a complex real-time strategy game. In this project I use reinforcement learning to train my bot, so it can compete with Hard AI builtin the game.
 
 <img src="images/reward.png?raw=true"/>
 <img src="images/game_length.png?raw=true"/>
@@ -56,7 +56,7 @@ The web hosts vast quantities of data useful for research. In this project, I bu
 ---
 
 ### Car model market analysis
-In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
+In this project I use web scrapping and data science to help me find the most profitable cars offers on otomoto.pl.
 
 <img src="images/year.png?raw=true"/>
 <img src="images/volvo.png?raw=true"/>
@@ -68,7 +68,7 @@ In this project, I use Geopandas to visualise data on deprivation levels in Lond
 ---
 
 ### The Search for New Earths
-A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
+The data describe the change in flux (light intensity) of several thousand stars. If said star is watched over several months or years, there may be a regular 'dimming' of the flux. This is evidence that there may be an orbiting body around the star. In this project, I use Decision Tree Classifier to find the stars that can be classified as "exoplanet star"
 
 <img src="images/confusion.png?raw=true"/>
 
