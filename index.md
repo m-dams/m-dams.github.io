@@ -9,7 +9,7 @@ Real-world data streams are rarely stationary. Data can change over time on seve
 <img src="images/mobility.png?raw=true" />
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/stream-learn-white?logo=pytorch)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/-white?logo=scikit-learn)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/strlearn-white?logo=pytorch)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 [View code on Colab](https://colab.research.google.com/github/MKDMK/ML/blob/main/active.ipynb)
 
