@@ -3,10 +3,13 @@
 ---
 
 ### Data stream concept drift detection
+Real-world data streams are rarely stationary. Data can change over time on several different ways. This phenomenon called "Concept drift" has very negative influence on performance of machine learning algorithms. In this project we compare the performance of 3 drift detector methods: DDM, EDDM and Kolmogorov-Smirnov algorithms.
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+<img src="images/mobility.png?raw=true" />
+<img src="images/mobility.png?raw=true" />
+<img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/stream-learn-white?logo=pytorch)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/-white?logo=scikit-learn)](#)
 
 [View code on Colab](https://colab.research.google.com/github/MKDMK/ML/blob/main/active.ipynb)
 
