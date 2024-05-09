@@ -2,6 +2,19 @@
 
 ---
 
+### Development of Machine Learning Algorithms for stereoEEG Analysis
+The aim of this study was to develop machine learning models based on data collected from pupillometry and stereoEEG in the learning process. The purpose of the models was to identify the correct encoding and decoding of memory among humans based on the mentioned biomarkers. The models were divided into 2 types based on the type of data used to calculate the prediction of memory encoding efficiency. The first group were models learned only from pupillometry data. Second group of models was adjusted to work on stereoEEG data. The second group of models was adapted to work on stereoEEG data. In addition, the effect of the location of electrodes in brain structures on the prediction results was investigated. The project was concluded with a comparative analysis of the mentioned types of machine learning models.
+
+<img src="images/seeg.png?raw=true" />
+<img src="images/slupkowy.png?raw=true" />
+<img src="images/cutoff.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)](#) [![](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/scikit--multiflow-white?logo=https://github.com/m-dams/m-dams.github.io/blob/75f9490a85244ddd1ab379c81aa64cb4da31a77d/images/Scikit-multiflow-logo.png)](#) [![](https://img.shields.io/badge/stream--learn-white?)](#)
+
+[View code on Colab](https://colab.research.google.com/github/MKDMK/ML/blob/main/active.ipynb)
+
+---
+
 ### Data stream concept drift detection
 Real-world data streams are rarely stationary. Data can change over time on several different ways. This phenomenon called "Concept drift" has very negative influence on performance of machine learning algorithms. In this project we compare the performance of 3 drift detector methods: DDM, EDDM and Kolmogorov-Smirnov algorithms.
 
